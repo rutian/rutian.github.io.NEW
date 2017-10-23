@@ -3,6 +3,9 @@ Re-making website for 2017
 jekyll + semanticUI + github pages
 
 
+# github pages setup for local rendering
+https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+
 # installing semantic
 https://semantic-ui.com/introduction/getting-started.html
 
@@ -11,4 +14,5 @@ https://stackoverflow.com/questions/25090452/gulp-command-not-found-after-instal
 
 # setting up environment
 https://excodus.com/en/blog/post/what-semantic-ui-and-how-set-environment
+
 
