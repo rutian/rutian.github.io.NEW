@@ -1,0 +1,64 @@
+---
+layout: default
+title: experiments 
+---
+
+<h4 class="ui centered header">Shorter Projects and Experiments</h4>
+
+
+<!-- Pagination links -->
+<div class="ui center aligned container">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  
+<h2 class="ui header"><a href="{{ post.url }}">{{ post.title }}</a> 
+    <div class="sub header"> 
+      {{post.date | date_to_string}} 
+    </div>
+</h2>
+
+
+
+{{post.content}}
+
+{% endfor %}
+
+<!-- Pagination links footer set-->
+<div class="ui center aligned container">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
+
+<script>
+$( document ).ready(function() {
+  $(".kevinExperiment").addClass( "active" );
+});
+</script>
+
+
+

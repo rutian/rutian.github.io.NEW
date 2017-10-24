@@ -24,11 +24,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# pagination settings
+paginate: 1
+paginate_path: "/experiments/page:num/"
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

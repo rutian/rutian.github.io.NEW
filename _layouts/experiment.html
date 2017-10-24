@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h2 class="ui header"> 
+    {{page.title}}
+    <div class="sub header"> 
+      {{page.date | date_to_string}} 
+    </div>
+</h2>
+
+<div class="ui divider"></div>
+
+{{content}}
+
+
+<script>
+$( document ).ready(function() {
+  $(".kevinExperiment").addClass( "active" );
+});
+</script>

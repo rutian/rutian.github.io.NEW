@@ -1,3 +1,6 @@
+
+
+
 {% include header.html %}
 
 
@@ -10,7 +13,7 @@
   <div class="two column row">
       <div class="column">
 
-        <a href="http://google.com" class="ui image">
+        <a href={{ "projects/wood" | absolute_url }} class="ui image">
           <img src={{ "media/woodroubo.jpg" | absolute_url }}>
           What wood you make? 2017 
         </a>
@@ -18,7 +21,7 @@
   
       <div class="column">
         
-        <a href="http://google.com" class="ui image">
+        <a href={{ "projects/mypartRedux" | absolute_url }} class="ui image">
           <img src={{ "media/MyPart_V0_with_case_exploded.png" | absolute_url }}>
           Mypart Redux, 2017
         </a>
@@ -26,7 +29,7 @@
 
       <div class="column">
 
-        <a href="http://google.com" class="ui image">
+        <a href={{ "projects/mypart" | absolute_url }} class="ui image">
           <img src={{ "media/mypart.jpg" | absolute_url }}>
           MyPart, 2016 
         </a>
@@ -35,7 +38,7 @@
   
       <div class="column">
         
-        <a href="http://google.com" class="ui image">
+        <a href={{ "projects/SensoryTriptych" | absolute_url }} class="ui image">
           <img src={{ "media/plane.jpg" | absolute_url }}>
            Sensory Triptych, 2014
         </a>
@@ -57,19 +60,26 @@
 <div class="ui stackable vertically divided grid">
   <div class="three column row">
       <div class="column">
-        <img class="ui image" src={{ "media/gripper.jpg" | absolute_url }}>
-        <p> 2D Multimaterial, 2015</p>
+        <a href={{ "projects/2Dmulti" | absolute_url }} class="ui image">
+          <img src={{ "media/gripper.jpg" | absolute_url }}>
+          2D Multimaterial, 2015
+        </a>        
       </div>
   
       <div class="column">
-        <img class="ui image" src={{ "media/digifab.jpg" | absolute_url }}>
-        <p> Digifabulous, 2015 </p>  
+        <a href={{ "projects/Digifab" | absolute_url }} class="ui image">
+          <img src={{ "media/digifab.jpg" | absolute_url }}>
+          Digifab, 2015
+        </a>
       </div>
   
       <div class="column">
-        <img class="ui image" src={{ "media/fish.jpg" | absolute_url }}>
-        <p> Animatronic Fish, 2014 </p>
+        <a href={{ "projects/fish" | absolute_url }} class="ui image">
+          <img src={{ "media/fish.jpg" | absolute_url }}>
+           Animatronic Fish, 2014
+        </a>
       </div>
+
   </div> <!-- end two column row -->
 
 </div> <!-- end stackable header -->
@@ -80,4 +90,8 @@
 {% include footer.html %}
 
 
-
+<script>
+$( document ).ready(function() {
+  $(".kevinProject").addClass( "active" );
+});
+</script>
