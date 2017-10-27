@@ -16,6 +16,16 @@ Old website with handcoded CSS below, layout hasn't changed very much:
 Links for posterity: 
 
 
+[Github pages setup for local rendering](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+[installing semantic](https://semantic-ui.com/introduction/getting-started.html)
+
+[node troubleshooting](https://stackoverflow.com/questions/25090452/gulp-command-not-found-after-install)
+
+[semantic UI setup](https://excodus.com/en/blog/post/what-semantic-ui-and-how-set-environment)
+
+
+
 
 
 

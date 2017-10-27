@@ -1,10 +1,9 @@
 ---
-name: Stickmatcher 
-subtitle: matching sticks at the cutting edge, a joint effort 
 layout: project 
-title: StickMatcher 
+title: Under Submission
+subtitle: matching sticks at the cutting edges, a joint effort
+year: 2017 
 ---
-
 
 ![Fixturing 101]({{"media/fixturing.jpg" | absolute_url}}){: .ui .fluid .image}
 

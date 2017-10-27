@@ -1,10 +1,20 @@
 ---
 layout: project 
-title: "2D Multi"
-tags: class
+title: 'Multimaterial Planar Stock' 
+year: 2015
 ---
+<script>
+$(function() {
 
-# Multimaterial Planar Stock
+$('.ui.embed').embed({
+  source      : 'vimeo',
+  id          : '174131133',
+  placeholder : 'https://farm1.staticflickr.com/638/23734476081_c013081f66_k.jpg',
+  icon        : 'vimeo square'
+}); 
+
+});
+</script>
 
 Final project for Computational Design + Fabrication (CS294-119) with Jonathan Bachrach.
 
@@ -17,16 +27,13 @@ A software program is created to generate the appropriate fabrication files from
 
 **special thanks:** Ethan Chiou
 
----
 
-Poster
+<div class="ui 3:2 embed"></div>
 
 ![Digifab poster](https://farm2.staticflickr.com/1464/24142201515_8dc44c9559_k.jpg){: .ui .fluid .image}
 
-Video 
-<iframe src="https://player.vimeo.com/video/174131133?color=ff0179&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Valves
+Custom pinch valves
 
 ![valve with silicone tubing](https://farm6.staticflickr.com/5637/22986920694_02459b31ad_k.jpg){: .ui .fluid .image}
 

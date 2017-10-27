@@ -7,11 +7,9 @@ title: Fish
 
 # Animatronic Fish #
 
-Final project for embedded systems (CS249A).
+Final project for embedded systems (CS249A): Turning an Ikea fish pillow into an animatronic toy. 
 
-Turning an Ikea fish pillow into an animatronic toy. 
-
-**Created by**: Rundong Tian, Ryan Feng, Eric O'neil
+**Collaborators**: Ryan Feng, Eric O'neil
 
 ---
 
@@ -29,7 +27,7 @@ $('.ui.embed').embed({
 </script>
 
 <div class="ui embed"></div>
-
+<br>
 Capacitive touch sensors
 
 ![Capacitive Touch Sensors](https://farm8.staticflickr.com/7539/15413912583_d4a0f4af00_c.jpg){: .ui .fluid .image}
@@ -47,7 +45,7 @@ Cable tensioner/fastener
 
 ![cable tensioners](https://farm2.staticflickr.com/1499/24175538981_c13ed75629_c.jpg){: .ui .fluid .image}
 
-Mbed shield
+Mbed shield, a power distribution board.
 
 ![shield me](https://farm8.staticflickr.com/7503/16032867182_6a216d33ea_c.jpg){: .ui .fluid .image}
 
