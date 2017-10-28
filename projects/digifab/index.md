@@ -17,8 +17,8 @@ $(function() {
 $('.ui.embed').embed({
   source      : 'vimeo',
   id          : '150847665?',
-  placeholder : 'https://farm6.staticflickr.com/5626/23791754776_984567b8b9_c.jpg',
-  icon        : 'vimeo square'
+  color       : 444444,
+  autoplay    : true
 }); 
 
 });

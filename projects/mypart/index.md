@@ -17,7 +17,7 @@ Christine Dierk, Christopher Myers, Eric Paulos, Ethan Chiou
 [MyPart: Personal, Portable, Accurate, Airborne Particle Counting](https://dl.acm.org/citation.cfm?doid=2858036.2858571), In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’16)
 
 **Design files**<br>
-Most recent [designs and documentation]({{ "projects/mypartRedux" | absolute_url }}), [open source design files for this iteration](https://github.com/rutian/MyPart/releases/tag/v0.0). 
+Most recent [designs and documentation]({{ "projects/mypartRedux" | absolute_url }}), [open source design files for this iteration](https://github.com/rutian/MyPart/releases/tag/v0.0) 
 
 <div class="ui divider"></div>
 

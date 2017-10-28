@@ -9,8 +9,7 @@ $(function() {
 $('.ui.embed').embed({
   source      : 'vimeo',
   id          : '174131133',
-  placeholder : 'https://farm1.staticflickr.com/638/23734476081_c013081f66_k.jpg',
-  icon        : 'vimeo square'
+  color       : 444444, 
 }); 
 
 });
@@ -28,7 +27,7 @@ A software program is created to generate the appropriate fabrication files from
 **special thanks:** Ethan Chiou
 
 
-<div class="ui 3:2 embed"></div>
+<div class="ui embed"></div>
 
 ![Digifab poster](https://farm2.staticflickr.com/1464/24142201515_8dc44c9559_k.jpg){: .ui .fluid .image}
 
@@ -53,7 +52,7 @@ Interface between the balloon and the fabric
 
 ![bladder](https://farm1.staticflickr.com/666/23615012285_f26264a37b_b.jpg "balloon adapter"){: .ui .fluid .image}
 
-Exploded view of the balloon adapter
+Exploded view of the balloon to fabric adapter
 
 **From top to bottom:** nylon tubing barb to male thread, laser cut acrylic nut, laser cut acrylic washer, 3D printed balloon barb, balloon receiver. 
 

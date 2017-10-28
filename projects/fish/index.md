@@ -2,10 +2,9 @@
 name: Fish
 layout: project 
 tags: class 
-title: Fish
+title: Animatronic Fish
+year: 2014 
 ---
-
-# Animatronic Fish #
 
 Final project for embedded systems (CS249A): Turning an Ikea fish pillow into an animatronic toy. 
 
@@ -15,14 +14,11 @@ Final project for embedded systems (CS249A): Turning an Ikea fish pillow into an
 
 <script>
 $(function() {
-
 $('.ui.embed').embed({
   source      : 'vimeo',
   id          : '150573325',
-  placeholder : 'https://farm8.staticflickr.com/7517/15854467488_d4145d83eb_b.jpg ',
-  icon        : 'vimeo square'
+  color       : 444444
 }); 
-
 });
 </script>
 

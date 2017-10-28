@@ -48,7 +48,7 @@ In collaboration with [Sarah Sterman](https://people.eecs.berkeley.edu/~ssterman
 
 <div class="ui hidden divider"></div>
 
-Correlation versus a Metone HHPC-6
+Correlation versus a Metone HHPC-6. Information about other tests we conducted can be found [here](https://github.com/rutian/MyPart/wiki/Tests).
 
 ![Correlation versus Metone]({{"media/smokeTest1_edited.png"  | absolute_url}}){: .ui .fluid .image}
 
