@@ -4,9 +4,9 @@ tags: electromechanical
 permalink: controller 
 ---
 
-One week project from interactive device design. 
+One week project from Interactive Device Design. 
 
-Game controller text entry device:
+Game controller text entry device.
 
 Self centering joysticks with rubber bands
 

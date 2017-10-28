@@ -5,12 +5,13 @@ tags: wood, CNC
 permalink: standingCart 
 ---
 
+![tool holder](https://farm1.staticflickr.com/693/31685720152_89e620f5ac_b.jpg "holding the toolholder"){: .ui .image}
 
-Dry fit
+Ergo-Shopbotting with the standing desk during construction
 
 ![Dry Fit](https://farm1.staticflickr.com/426/30992334754_b89a569b32_b.jpg "dry"){: .ui .image}
 
-No pictures of the glue up, as it was one of the most stressful events of my life. 
+Dry fit. No pictures of the glue up, as it was one of the most stressful events of my life. 
 
 Casework coming together
 
@@ -24,11 +25,9 @@ Making tool holders from a failed drawer
 
 ![tool holder](https://farm1.staticflickr.com/501/31832720465_e8bc5cfcb8_b.jpg "holding the toolholder"){: .ui .image}
 
-Ergo shopbotting
-
-![tool holder](https://farm1.staticflickr.com/693/31685720152_89e620f5ac_b.jpg "holding the toolholder"){: .ui .image}
-
 Holding Tools!
+
+![top drawer](https://farm5.staticflickr.com/4476/26200089479_bf47b2a2ea_b.jpg){: .ui .image}
 
 ![holder](https://farm1.staticflickr.com/737/32465117165_1e0e453027_b.jpg "holding the tools"){: .ui .image}
 

@@ -8,13 +8,11 @@ Redid website with Semantic-UI and Jekyll.
 
 Old CSS was messy and difficult to maintain.  Now it is better.
 
-Old website with handcoded CSS below, layout hasn't changed very much:
+Old website with handcoded CSS:
 
 ![old stuff]({{"media/old_home_page.png" | absolute_url}}){: .ui .fluid .image}
 
-
 Links for posterity: 
-
 
 [Github pages setup for local rendering](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 

@@ -6,12 +6,23 @@ tags: other
 
 **Created by:** Rundong Tian, Sean Arietta
 
-Another one week project from interactive device design.
+Another one week project from Interactive Device Design.
 
-Quick draw game controller with period accurate single action fun. An accelerometer in the handle of the controller is used to determine the efficacy of your quickdraw. 
+Quick draw game controller with period accurate single action fun. An accelerometer in the handle of the controller is used to determine the efficacy of your quickdraw. A button on the hammer detects a 'shot'. 
 
 
-<iframe src="https://player.vimeo.com/video/151445000?color=ff0179&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<script>
+$(function() {
+$('.ui.embed').embed({
+  color: 444444, 
+  autoplay: true,
+});
+});
+</script>
+
+
+<div class="ui embed" data-source="vimeo" data-id="151445000"> </div>
+
 
 Assembling
 

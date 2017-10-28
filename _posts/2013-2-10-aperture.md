@@ -5,12 +5,20 @@ tags: other
 permalink: aperture
 ---
 
+<script>
+$(function() {
+$('.ui.embed').embed({
+  color: 444444, 
+  autoplay: true,
+});
+});
+</script>
 
 Life before laser cutters 
 
+<div class="ui 4:3 embed" data-source="vimeo" data-id="59374714"> </div>
 
-<iframe src="https://player.vimeo.com/video/59374714?title=0&byline=0&portrait=0" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<div class="ui hidden divider"></div>
 
 ![autosize]({{site.url}}/media/blades1.jpg "aperture blades"){: .ui .centered .image}
 

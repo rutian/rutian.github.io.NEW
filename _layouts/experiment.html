@@ -1,6 +1,19 @@
 ---
-layout: default
 ---
+
+
+<html>
+  <head>
+    <title> {{page.title}} </title> 
+    <meta charset="utf-8"> 
+  </head>
+  
+  <body>
+    
+
+
+{%include header.html%} 
+<div class="ui text center aligned container">
 
 <h2 class="ui header"> 
     {{page.title}}
@@ -14,8 +27,24 @@ layout: default
 {{content}}
 
 
+</div>
+
+{%include footer.html%} 
+
+
+
+
 <script>
 $( document ).ready(function() {
   $(".kevinExperiment").addClass( "active" );
 });
 </script>
+
+
+
+
+  </body>
+
+</html>
+
+

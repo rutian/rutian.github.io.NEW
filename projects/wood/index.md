@@ -1,9 +1,9 @@
 ---
 layout: project 
-title: Under Submission
-subtitle: matching sticks at the cutting edges, a joint effort
+title: coming soon 
+subtitle: a joint effort at the cutting edges 
 year: 2017 
 ---
 
-![Fixturing 101]({{"media/fixturing.jpg" | absolute_url}}){: .ui .fluid .image}
+![Fixturing 101]({{"media/roubo8.jpg" | absolute_url}}){: .ui .fluid .image}
 
