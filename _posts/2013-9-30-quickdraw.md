@@ -22,21 +22,15 @@ $('.ui.embed').embed({
 
 
 <div class="ui embed" data-source="vimeo" data-id="151445000"> </div>
-
-
+<div class="ui hidden divider"></div>
+![assembly](https://farm4.staticflickr.com/3697/10095231334_95ccd2f66d_k.jpg){: .ui .centered .image}
 Assembling
 
-![assembly](https://farm4.staticflickr.com/3697/10095231334_95ccd2f66d_k.jpg){: .ui .centered .image}
-
-
+![more assembly](https://farm8.staticflickr.com/7442/10095325343_55424fdc1b_k.jpg){: .ui .centered .image}
 Grooves for wiring and rubber bands 
 
-![more assembly](https://farm8.staticflickr.com/7442/10095325343_55424fdc1b_k.jpg){: .ui .centered .image}
-
-
-Custom game created by Sean in Processing
-
 ![default]( {{site.url}}/media/quickdraw.png "custom quick draw game"){: .ui .centered .image}
+Custom game created by Sean in Processing
 
 
 
