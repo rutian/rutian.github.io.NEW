@@ -30,7 +30,7 @@ paginate_path: "/experiments/page:num/"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
