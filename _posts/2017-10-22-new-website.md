@@ -6,6 +6,8 @@ categories: jekyll, web
 
 Redid website with Semantic-UI and Jekyll. 
 
+Will still be updating the styles a bit, but most of the content is now up.
+
 Old CSS was messy and difficult to maintain.  Now it is better.
 
 Screenshot of old website with handcoded CSS:
