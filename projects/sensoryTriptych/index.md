@@ -13,7 +13,7 @@ Sensory Triptych is a set of exploratory, interactive sensors designed for child
 Eric Paulos, Chris Myers
 
 **Publication** <br>
-[Sensory Triptych: Here, Near, Out There](https://dl.acm.org/citation.cfm?doid=2642918.2647410), In Proceedings of the 27th annual ACM symposium on User interface software and technology (UIST '14). 
+[Sensory Triptych: Here, Near, Out There](https://dl.acm.org/citation.cfm?doid=2642918.2647410){:target="_blank"}, In Proceedings of the 27th annual ACM symposium on User interface software and technology (UIST '14). 
 
 ### Digger
 

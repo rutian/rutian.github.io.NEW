@@ -6,18 +6,18 @@ year: 2017
 ---
 
 
-One of the most harmful airborne pollutants with respect to human health is particulate matter. Airborne particles with a diameter of less than 10 microns (PM10) pose an especially large risk to human health: they can travel deeply into the respiratory system, causing a variety of cardiovascular and respiratory diseases. More information about particulate matter can be found [here](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics).
+One of the most harmful airborne pollutants with respect to human health is particulate matter. Airborne particles with a diameter of less than 10 microns (PM10) pose an especially large risk to human health: they can travel deeply into the respiratory system, causing a variety of cardiovascular and respiratory diseases. More information about particulate matter can be found [here](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics){:target="_blank"}.
 
-While there are many [devices](http://www.aqmd.gov/aq-spec/evaluations/summary) currently available on the market that attempt to measure particulate matter, we wanted to make something that is simultaneously accurate, small, portable, low cost, and open source.
+While there are many [devices](http://www.aqmd.gov/aq-spec/evaluations/summary){:target="_blank"} currently available on the market that attempt to measure particulate matter, we wanted to make something that is simultaneously accurate, small, portable, low cost, and open source.
 
-After publishing this project to [CHI]({{ '/projects/mypart' | absolute_url}}), we iterated again on the electromechanical design, fabricated and tested 3 sensors, and documented our process in a series of instructables.
+After publishing this project to [CHI]({{ '/projects/mypart' | absolute_url}}){:target="_blank"}, we iterated again on the electromechanical design, fabricated and tested 3 sensors, and documented our process in a series of instructables.
 In addition to documenting the design and fabrication of the sensors, we also documented the build process for an aerosol test chamber and a monodispersed particle generator. 
 
-We have released the open source software and designs on [github](https://github.com/rutian/mypart). Additional information about some of our design rationale, tests that were conducted, and potential improvements are written up on the [wiki](https://github.com/rutian/MyPart/wiki).
+We have released the open source software and designs on [github](https://github.com/rutian/mypart){:target="_blank"}. Additional information about some of our design rationale, tests that were conducted, and potential improvements are written up on the [wiki](https://github.com/rutian/MyPart/wiki){:target="_blank"}.
 
-In collaboration with [Sarah Sterman](https://people.eecs.berkeley.edu/~ssterman/).
+In collaboration with [Sarah Sterman](https://people.eecs.berkeley.edu/~ssterman/){:target="_blank"}.
 
-**Press**<br>[Hackaday](https://hackaday.com/2016/11/13/a-portable-accurate-low-cost-open-source-air-particle-counter/), [Othermill](http://blog.bantamtools.com/build-a-portable-low-cost-open-source-air-particle-counter)
+**Press**<br>[Hackaday](https://hackaday.com/2016/11/13/a-portable-accurate-low-cost-open-source-air-particle-counter/){:target="_blank"}, [Othermill](http://blog.bantamtools.com/build-a-portable-low-cost-open-source-air-particle-counter){:target="_blank"}
 
 **How to's:** 
 
@@ -48,7 +48,7 @@ In collaboration with [Sarah Sterman](https://people.eecs.berkeley.edu/~ssterman
 
 <div class="ui hidden divider"></div>
 
-Correlation versus a Metone HHPC-6. Information about other tests we conducted can be found [here](https://github.com/rutian/MyPart/wiki/Tests).
+Correlation versus a Metone HHPC-6. Information about other tests we conducted can be found [here](https://github.com/rutian/MyPart/wiki/Tests){:target="_blank"}.
 
 ![Correlation versus Metone]({{"media/smokeTest1_edited.png"  | absolute_url}}){: .ui .fluid .image}
 
@@ -75,6 +75,7 @@ Testing the sensors with a MetOne and Dylos (not pictured) inside our chamber
 ![Size of Mypart Sensor]({{"media/sensorsInChamber.jpg" | absolute_url}}){: .ui .fluid .image}
 
 Devices under test
+
 ![DUT]({{"media/DUT.jpg" | absolute_url}}){: .ui .fluid .image}
 
 
