@@ -1,7 +1,7 @@
 ---
+layout: project 
 title: Digifab
 subtitle: Computational Design + Fabrication with Jonathan Bachrach (CS294-119) 
-layout: project 
 year: 2015
 ---
 

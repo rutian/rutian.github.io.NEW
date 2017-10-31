@@ -1,5 +1,4 @@
 ---
-name: Sensory Triptych 
 layout: project 
 tags: research 
 year: 2014
