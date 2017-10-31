@@ -2,5 +2,5 @@
 layout: default
 ---
 
-{% include cv.html %}
+{% include CV.html %}
 
