@@ -8,7 +8,7 @@ permalink: MKii
 CNC for woodworking, version 1.
 
 ![Baby Spindle]({{site.url}}/media/babySpindle.jpg){: .ui .large .centered .image}
-Mother and child portrait
+Mother and child portrait. Based on [this](http://mtm.cba.mit.edu/toolheads/spindle/makeit.html){:target="_blank"}.
 
 ![Kabob]({{site.url}}/media/kabob.jpg){:.ui.fluid.image}
 Match drilled, holes used again for alignment on secondary features.
