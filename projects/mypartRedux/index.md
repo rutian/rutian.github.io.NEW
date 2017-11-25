@@ -17,7 +17,7 @@ We have released the open source software and designs on [github](https://github
 
 In collaboration with [Sarah Sterman](https://people.eecs.berkeley.edu/~ssterman/){:target="_blank"}.
 
-**Press**<br>[Hackaday](https://hackaday.com/2016/11/13/a-portable-accurate-low-cost-open-source-air-particle-counter/){:target="_blank"}, [Othermill](http://blog.bantamtools.com/build-a-portable-low-cost-open-source-air-particle-counter){:target="_blank"}
+**Press**<br>[Hackaday](https://hackaday.com/2016/11/13/a-portable-accurate-low-cost-open-source-air-particle-counter/){:target="_blank"}, [Othermill](http://blog.bantamtools.com/build-a-portable-low-cost-open-source-air-particle-counter){:target="_blank"}, [Adafruit](https://blog.adafruit.com/2016/11/16/how-to-make-a-powerful-air-quality-wearable-wearablewednesday/)
 
 **How to's:** 
 
