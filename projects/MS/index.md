@@ -28,7 +28,7 @@ Layout of the gantry
 ![machine layouts]({{"media/kinematicsColorized8.jpg" | absolute_url}}){: .ui.fluid.image}
 
 Example joints created with our system
-![example joints]({{"media/egjoints_updated.jpg" | absolute_url}}){: .ui.fluid.image}
+![example joints]({{"media/egJoints_updated.jpg" | absolute_url}}){: .ui.fluid.image}
 
 Example objects created with our system
 ![side table example]({{"media/sideTable8.jpg" | absolute_url}}){: .ui.fluid.image}
