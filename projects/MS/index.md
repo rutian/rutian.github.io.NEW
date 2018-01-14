@@ -21,7 +21,7 @@ Digital fabrication tools have broadened participation in making and enabled new
 CNC machine:
 ![Machine Portrait]({{"media/machinePortrait.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Various ways to fixture
+Various ways to fixture. Green - alignment; purple - workpiece; orange - fixturing.
 ![fixturing]({{"media/fixturing_updated.jpg" | absolute_url}}){: .ui.fluid.image}
 
 Layout of the gantry
