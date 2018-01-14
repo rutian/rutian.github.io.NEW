@@ -30,13 +30,18 @@ Layout of the gantry
 Example joints created with our system
 ![example joints]({{"media/egJoints_updated.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Example objects created with our system
+Example objects created with our system:
+
+##### Side Table
 ![side table example]({{"media/sideTable8.jpg" | absolute_url}}){: .ui.fluid.image}
 
+##### Toolbox
 ![toolbox 2]({{"media/toolbox2.jpg" | absolute_url}}){: .ui.fluid.image}
 
+##### Workbench
 ![roubo]({{"media/roubo8.jpg" | absolute_url}}){: .ui.fluid.image}
 
+##### Small Toolbox
 ![toolbox 1]({{"media/toolbox18.jpg" | absolute_url}}){: .ui.fluid.image}
 
 Bringing the tool to the stock for larger/immobile workpieces.
