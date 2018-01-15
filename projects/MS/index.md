@@ -48,3 +48,7 @@ Bringing the tool to the stock for larger/immobile workpieces.
 ![og kineamtics]({{"media/clampOnKinematics.jpg" | absolute_url}}){: .ui.fluid.image}
 
 ![bring tool to stock]({{"media/og.jpg" | absolute_url}}){: .ui.fluid.image}
+
+User Study participants created boxes of customizable size and joinery.
+![User Study]({{"media/userStudy.jpg" | absolute_url}}){: .ui.fluid.image}
+
