@@ -5,7 +5,7 @@ categories: CAM, Machining, wood, furniture
 permalink: plane
 ---
 
-Homemade wooden hand plane
+Homemade (mostly) wooden hand plane
 
 ![side view](https://farm5.staticflickr.com/4720/25598328647_2441f0bfa1_b.jpg){: .ui .fluid .image}
 
@@ -14,18 +14,18 @@ Homemade wooden hand plane
 
 
 ![multi-setup view](https://farm5.staticflickr.com/4649/25598706957_d9eff8d0cc_b.jpg){:.ui .fluid .image}
-Many setups, one bed.
+Many setups, one bed
 
 ![glue](https://farm5.staticflickr.com/4624/39574132885_8c9e16bcb2_b.jpg){:.ui .fluid .image} 
-Alignment holes for glue-up.
+Alignment holes for glue-up
 
 
 ![router table](https://farm5.staticflickr.com/4610/26598994418_517036713d_b.jpg){:.ui .fluid .image}
-5 second router table. 
+5 second router table, to take some light chamfers
 
 
 ![metal sole](https://farm5.staticflickr.com/4749/40469811161_af778e12c5_b.jpg){:.ui .fluid .image} 
-Waterjet steel sole, attached with fixturing tape.
+Waterjet steel sole, attached with fixturing tape
 
 ![metal sole](https://farm5.staticflickr.com/4716/38658955230_3d4fb994bc_b.jpg){:.ui .fluid .image} 
 

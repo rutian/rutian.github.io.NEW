@@ -44,6 +44,7 @@ permalink: standingCartUpdate
 
 <div class="ui hidden divider"></div>
 
+Some documentation for the build of this cart can be found [here](https://rutian.github.io/standingCart).
 
 ![doorstop](https://farm5.staticflickr.com/4466/26224714509_70d87e031e_b.jpg){:.ui.fluid.image}
 Small doorstop for keeping the tool chest in place
