@@ -1,8 +1,8 @@
 ---
 layout: experiment 
-title: MKII 
+title: MKI 
 categories: CAM, Machining 
-permalink: MKii
+permalink: MKi
 ---
 
 CNC for woodworking, version 1.

@@ -1,7 +1,8 @@
 ---
 layout: experiment 
-title:  "Building Stickmatcher"
-categories: fab, machining
+title: MKII
+categories: CAM, Machining
+permalink: MKii
 ---
 
 CNC for woodworking. Version 2. 

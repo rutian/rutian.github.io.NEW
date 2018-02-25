@@ -2,7 +2,7 @@
 layout: project
 title:  MatchSticks
 subtitle:  Woodworking through Improvisational Digital Fabrication
-year: Accepted to CHI 2018
+year: CHI 2018 • Honorable Mention Award
 ---
 
 <script>

@@ -3,6 +3,13 @@ Re-making website for 2017
 jekyll + semanticUI + github pages
 
 
+# Where is everything?
+
+CV? - in /includes
+
+projects homepage? /layout/projects.html
+
+
 # github pages setup for local rendering
 https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 
