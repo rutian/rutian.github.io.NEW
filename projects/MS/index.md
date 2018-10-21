@@ -25,6 +25,10 @@ Digital fabrication tools have broadened participation in making and enabled new
 **Publication**<br>
 [MatchSticks: Woodworking through Improvisational Digital Fabrication](https://dl.acm.org/citation.cfm?doid=3173574.3173723){:target="_blank"}, In the Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
 
+**Press** <br>
+[Hackaday](https://hackaday.com/2018/08/28/a-cnc-woodworking-tool-that-does-the-hard-parts/){:target="_blank"}, [Gigazine](https://gigazine.net/gsc_news/en/20180903-matchsticks/){:target="_blank"}
+
+
 <div class="ui embed" data-source="youtube" data-id="vAWo4dwNecA"> </div>
 <br>
 CNC machine:
