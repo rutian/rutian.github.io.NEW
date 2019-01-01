@@ -2,12 +2,17 @@ Re-making website for 2017
 
 jekyll + semanticUI + github pages
 
+# How to load locally?
+
+> bundle exec jekyll serve
+then navigate to localhost port 4000
+
 
 # Where is everything?
 
 CV? - in /includes
-
-projects homepage? /layout/projects.html
+projects homepage? - /_layout/projects.html
+about description? - in /_layout/home.html
 
 
 # github pages setup for local rendering
