@@ -10,7 +10,6 @@ Final project for embedded systems (CS249A): Turning an Ikea fish pillow into an
 
 **Collaborators**: Ryan Feng, Eric O'neil
 
----
 
 <script>
 $(function() {

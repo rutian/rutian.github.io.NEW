@@ -11,8 +11,10 @@ then navigate to localhost port 4000
 # Where is everything?
 
 CV? - in /includes
-projects homepage? - /_layout/projects.html
-about description? - in /_layout/home.html
+projects homepage? - /\_layout/projects.html
+about description? - in /\_layout/home.html
+'blog' projects? - in /\_posts
+style sheets? - /semantic   and /styles - for overrides
 
 
 # github pages setup for local rendering

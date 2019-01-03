@@ -5,7 +5,7 @@
 
 <div class="ui center aligned container">
 
-<h3 class="ui horizontal divider header"> Shorter Projects and Experiments</h3>
+<h4 class="ui horizontal divider header"> Shorter Projects and Experiments</h4>
 
 <div class="ui list">
   {% for post in site.posts %}
