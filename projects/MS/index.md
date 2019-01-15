@@ -28,8 +28,7 @@ Digital fabrication tools have broadened participation in making and enabled new
 **Press** <br>
 [Hackaday](https://hackaday.com/2018/08/28/a-cnc-woodworking-tool-that-does-the-hard-parts/){:target="_blank"}, [Gigazine](https://gigazine.net/gsc_news/en/20180903-matchsticks/){:target="_blank"}
 
-
-<div class="ui embed" data-source="youtube" data-id="vAWo4dwNecA"> </div>
+<div class="ui embed" data-source="youtube" data-id="wHmrjC35Ynw"> </div>
 <br>
 CNC machine:
 ![Machine Portrait]({{"media/machinePortrait.jpg" | absolute_url}}){: .ui.fluid.image}
