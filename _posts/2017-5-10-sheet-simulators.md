@@ -1,6 +1,6 @@
 ---
 layout: experiment 
-title:  Sheet simulation 2 ways
+title:  Sheet Simulation 2 Ways
 categories: jekyll, web 
 permalink: sheetSimulators
 ---

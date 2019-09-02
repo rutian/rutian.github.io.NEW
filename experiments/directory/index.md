@@ -5,7 +5,7 @@
 
 <div class="ui center aligned container">
 
-<h4 class="ui horizontal divider header"> Shorter Projects and Experiments</h4>
+<h2 class="ui horizontal divider header"> Shorter Projects and Experiments</h2>
 
 <div class="ui list">
   {% for post in site.posts %}
@@ -15,3 +15,12 @@
 
 
 </div>
+
+
+<script>
+$( document ).ready(function() {
+  $(".kevinExperiment").addClass( "active" );
+});
+</script>
+
+

@@ -5,12 +5,13 @@ subtitle:
 year: 2017
 ---
 
+![Exploded]({{"media/MyPart_V0_with_case_exploded.png"  | absolute_url}}){: .ui .fluid .image}
 
 One of the most harmful airborne pollutants with respect to human health is particulate matter. Airborne particles with a diameter of less than 10 microns (PM10) pose an especially large risk to human health: they can travel deeply into the respiratory system, causing a variety of cardiovascular and respiratory diseases. More information about particulate matter can be found [here](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics){:target="_blank"}.
 
 While there are many [devices](http://www.aqmd.gov/aq-spec/evaluations/summary){:target="_blank"} currently available on the market that attempt to measure particulate matter, we wanted to make something that is simultaneously accurate, small, portable, low cost, and open source.
 
-After publishing this project to [CHI]({{ '/projects/mypart' | absolute_url}}){:target="_blank"}, we iterated again on the electromechanical design, fabricated and tested 3 sensors, and documented our process in a series of instructables.
+After publishing this project to [CHI]({{ '/projects/mypart' | absolute_url}}){:target="_blank"}, we iterated again on the electromechanical design, fabricated and tested 3 sensors, and documented our process in a series of Instructables.
 In addition to documenting the design and fabrication of the sensors, we also documented the build process for an aerosol test chamber and a monodispersed particle generator. 
 
 We have released the open source software and designs on [github](https://github.com/rutian/mypart){:target="_blank"}. Additional information about some of our design rationale, tests that were conducted, and potential improvements are written up on the [wiki](https://github.com/rutian/MyPart/wiki){:target="_blank"}.
@@ -60,7 +61,6 @@ The internal air channels are separate from the outer case, allowing for various
 
 ![Size of Mypart Sensor]({{"media/form_factors.jpg" | absolute_url}}){: .ui .fluid .image}
 
-![Exploded]({{"media/MyPart_V0_with_case_exploded.png"  | absolute_url}}){: .ui .fluid .image}
 
 Milling the air channels from ABS
 

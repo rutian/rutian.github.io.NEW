@@ -3,7 +3,7 @@ name: mypart
 layout: project 
 title: MyPart
 subtitle: Personal, Portable, Accurate Air Particle Counting
-year: 2016
+year: CHI 2016
 collaborators: Christine Dierk, Christopher Myers, Eric Paulos
 ---
 

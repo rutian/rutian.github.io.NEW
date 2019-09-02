@@ -1,7 +1,7 @@
 ---
 layout: project 
 tags: research 
-year: 2014
+year: UIST 2014
 title: 'Sensory Triptych'
 subtitle: 
 ---
