@@ -2,6 +2,7 @@
 :root {
   --serifFont: eb-garamond, serif;/*'Libre Franklin', sans-serif;*/
   --sanSerifFont: futura-pt, sans-serif;/*'Libre Baskerville', serif;*/
+  --sanSerifFontB: din-2014, sans-serif; 
   
   /* COLORS */
   --silver: #999B9B; /* silver          */
@@ -18,16 +19,11 @@ a{
 
 a:hover{
   color: var(--UV) !important;
-  text-decoration: underline;
 }
 
 /*icon, navigation for pagination */
 a i {
   text-decoration: none !important;
-}
-
-a i:hover {
-  color: var(--moon) !important;
 }
 
 /* default for all font */
@@ -86,9 +82,18 @@ h1,h2{
   color: var(--pearl) !important;
 }
 
+h1 {
+  font-size: 2.0rem !important;
+}
+
+h1 .sub.header{
+  font-size: 1.3rem !important;
+}
+
 h2 {
   font-size: 1.5rem !important;
 }
+
 
 h3,h4{
   font-family: var(--sanSerifFont) !important;
@@ -109,7 +114,7 @@ h3,h4{
 
 /* footer yo */
 #footer p {
-  font-family: var(--serifFont) !important;
+  font-family: var(--sanSerifFont) !important;
   font-size:1.1rem !important;
 }
 
