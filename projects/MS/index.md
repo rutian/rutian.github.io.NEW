@@ -34,37 +34,37 @@ Combining a portable CNC machine, touchscreen user interface, and parametric joi
 
 <div class="ui embed" data-source="youtube" data-id="wHmrjC35Ynw"> </div>
 <br>
-CNC machine:
+### CNC machine
 ![Machine Portrait]({{"media/machinePortrait.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Various ways to fixture. Green - alignment; purple - workpiece; orange - fixturing.
+### Various ways to fixture. Green - alignment; purple - workpiece; orange - fixturing.
 ![fixturing]({{"media/fixturing_updated.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Layout of the gantry
+### Layout of the gantry
 ![machine layouts]({{"media/kinematicsColorized8.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Example joints created with our system
+### Example joints created with our system
 ![example joints]({{"media/egJoints_updated.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Example objects created with our system:
+### Example objects created with our system:
 
-Side Table
+#### Side Table
 ![side table example]({{"media/sideTable8.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Toolbox
+#### Toolbox
 ![toolbox 2]({{"media/toolbox2.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Workbench
+#### Workbench
 ![roubo]({{"media/roubo8.jpg" | absolute_url}}){: .ui.fluid.image}
-
-Small Toolbox
+ 
+#### Small Toolbox
 ![toolbox 1]({{"media/toolbox18.jpg" | absolute_url}}){: .ui.fluid.image}
 
-Bringing the tool to the stock for larger/immobile workpieces.
+### Bringing the tool to the stock for larger/immobile workpieces.
 ![og kineamtics]({{"media/clampOnKinematics.jpg" | absolute_url}}){: .ui.fluid.image}
 
 ![bring tool to stock]({{"media/og.jpg" | absolute_url}}){: .ui.fluid.image}
 
-User Study participants created boxes of customizable size and joinery.
+### User Study participants created boxes of customizable size and joinery.
 ![User Study]({{"media/userStudy.jpg" | absolute_url}}){: .ui.fluid.image}
 
