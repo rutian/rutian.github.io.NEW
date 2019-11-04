@@ -30,6 +30,11 @@ Vedant Saran, Mareike Kritzler, Florian Michahelles, Eric Paulos
 **Publication**<br>
 [Turn-by-Wire: Digitally Mediated Physical Fabrication](https://doi.org/10.1145/3332165.3347918){:target="_blank"}, In the Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology 
 
+
+### 30 second trailer
+<div class="ui embed" data-source="youtube" data-id="MmSUk3Y0nCk"> </div>
+
+### Full length video
 <div class="ui embed" data-source="youtube" data-id="75GNGdwUqig"> </div>
 
 
