@@ -25,8 +25,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # pagination settings
-paginate: 1
-paginate_path: "/experiments/page:num/"
+paginate: 5
+paginate_path: "/experimentsByDate/page:num/"
 
 # Build settings
 markdown: kramdown

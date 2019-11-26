@@ -2,6 +2,7 @@
 layout: experiment 
 title: Welding
 categories: inflate
+permalink: Welds
 ---
 
 Laser welding two plastic films together with a presser foot for more consistent seals

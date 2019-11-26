@@ -2,6 +2,7 @@
 name: post_title
 layout: experiment 
 tags: other, rapid_fab 
+headshot: head.jpg
 permalink: experiments/permalink_text
 published: false 
 ---

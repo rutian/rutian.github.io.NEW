@@ -1,0 +1,34 @@
+---
+layout: default
+
+---
+
+<!-- Directory for the bloggish posts --> 
+
+{%include experimentsHeader.html%} 
+
+<div class="ui container">
+
+
+<h3 class="ui dividing header"> Directory</h3>
+
+<div class="ui link list">
+  {% for post in site.posts %}
+  <a class="item" href="{{ post.url }}"> 
+      {{ post.title }} 
+      <div class="right floated content"> {{post.date | date: "%B %Y" }} </div>
+  </a>
+  {% endfor %}
+</div>
+
+</div>
+
+
+<script>
+$( document ).ready(function() {
+  $(".kevinExperiment").addClass( "active" );
+  $(".byTime").addClass( "active" );
+});
+</script>
+
+

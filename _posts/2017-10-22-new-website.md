@@ -2,6 +2,7 @@
 layout: experiment 
 title:  "New Website Layout"
 categories: jekyll, web 
+permalink: web
 ---
 
 Redid website with Semantic-UI and Jekyll. 

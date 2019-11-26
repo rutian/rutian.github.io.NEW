@@ -60,12 +60,13 @@ p strong{
 }
 
 /*link in the header */
-.ui.text.stackable.menu a:hover{
+.ui.text.menu a:hover{
   color: var(--UV) !important;
 }
 
-.ui.text.stackable.menu a.active{
+.ui.text.menu a.active{
   color: var(--UV) !important;
+  backg
 }
 
 /*RUNDONG TIAN part of the header*/
