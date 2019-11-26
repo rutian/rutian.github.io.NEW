@@ -14,13 +14,13 @@ title: experiments
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous"><i class="angle left icon"></i></a>
   {% else %}
-    <a href={{"experiments/directory" | absolute_url }}><i class="small list icon"></i></a>
+    <a href={{"experimentsByDate/directory" | absolute_url }}><i class="small list icon"></i></a>
   {% endif %}
   <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next"><i class="angle right icon"></i></a>
   {% else %}
-    <a href={{"experiments/directory" | absolute_url }}> <i class="small list icon"></i> </a>
+    <a href={{"experimentsByDate/directory" | absolute_url }}> <i class="small list icon"></i> </a>
   {% endif %}
 </div>
 
