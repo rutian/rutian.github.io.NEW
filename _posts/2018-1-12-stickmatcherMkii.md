@@ -7,7 +7,7 @@ permalink: MKii
 
 CNC for woodworking. Version 2. 
 
-Did not take many pictures during assembly. Information about the surrounding project can be found [here]({{"projects/MS" | relative_url}}).
+A few pictures taken during the construction and assembly of [MatchSticks]({{"projects/MS" | relative_url}}).
 
 After assembly
 

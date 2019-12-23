@@ -1,0 +1,76 @@
+// class for triangles. 
+// contains geometric info, as well as for forces
+
+class ContinuumTriangle {
+
+    constructor( points, i, j, k, rho, thickness) {
+   
+
+        this.mass = 0;
+        this.area = 0;
+        this.normal  = new Float32Array( 3 );
+        this.t = 0;
+        this.vol = 0;
+
+        this.li = 0; // edge lengths
+        this.lj = 0;
+        this.lk = 0;
+
+        this.tensorI = new Float32Array( 9 ); // tensors [ tj (x) tk + tk (x) tj ]
+        this.tensorJ = new Float32Array( 9 );
+        this.tensorK = new Float32Array( 9 );    
+
+        this.tensorII = new Float32Array( 9 ); // tensorI * tensorI
+        this.tensorJJ = new Float32Array( 9 );
+        this.tensorKK = new Float32Array( 9 );
+        this.tensorIJ = new Float32Array( 9 ); 
+        this.tensorJI = new Float32Array( 9 );
+        this.tensorIK = new Float32Array( 9 );
+        this.tensorKI = new Float32Array( 9 );
+        this.tensorJK = new Float32Array( 9 );
+        this.tensorKJ = new Float32Array( 9 ); 
+
+    
+        this.Tr_E_squared = 0; // St. Venant-kirchhoff model
+        this.Tr_squared_E = 0;
+
+
+
+
+
+        // start filling in those pararmeters
+
+        this.t = thickness;
+        this.normal = normalFromThreePoints( points, i, j, k );  //normalFromThreePoints( pArray, p1i, p2i, p3i ); // in CCW ordering
+        this.area = areaThreePoints( points, i, j, k);  // TODO overlapping computation between area and normal
+        this.volume = this.area * this.t;
+        this.mass = this.volume * rho; 
+
+        // all the tensor shit
+
+     
+    
+
+    }
+
+
+    // update strains, and the strain derivatives
+
+    updateStrain() {
+
+
+    }
+
+
+    // accumulate force induced by the stretch and shear forces of the triangle into
+    // the force list (indexed by vertex)
+    applyForce( forceList ) {
+
+
+
+    }
+
+
+
+
+}
